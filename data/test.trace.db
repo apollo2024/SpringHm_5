@@ -1,0 +1,16 @@
+2024-02-24 13:00:39.528828+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "TASK" уже существует
+Table "TASK" already exists; SQL statement:
+CREATE TABLE task ( id SERIAL PRIMARY KEY, description VARCHAR(255) NOT NULL, status VARCHAR(255) NOT NULL, created_at TIMESTAMP NOT NULL ) [42101-224]
+2024-02-25 12:27:41.939037+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "TASK" уже существует
+Table "TASK" already exists; SQL statement:
+CREATE TABLE task ( id SERIAL PRIMARY KEY, description VARCHAR(255) NOT NULL, status VARCHAR(255) NOT NULL, created_at TIMESTAMP NOT NULL ) [42101-224]
+2024-02-25 12:42:04.084092+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "TASK" уже существует
+Table "TASK" already exists; SQL statement:
+CREATE TABLE task ( id SERIAL PRIMARY KEY, description VARCHAR(255) NOT NULL, status VARCHAR(255) NOT NULL, created_at TIMESTAMP NOT NULL ) [42101-224]
+2024-02-25 12:46:41.126567+05:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "TASK" уже существует
+Table "TASK" already exists; SQL statement:
+CREATE TABLE task ( id SERIAL PRIMARY KEY, description VARCHAR(255) NOT NULL, status VARCHAR(255) NOT NULL, created_at TIMESTAMP NOT NULL ) [42101-224]
